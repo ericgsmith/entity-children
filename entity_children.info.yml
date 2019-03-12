@@ -1,0 +1,5 @@
+name: Entity Children
+type: module
+description: Provides a service to get the entities of child menu items from an active menu item.
+package: Custom
+core: 8.x

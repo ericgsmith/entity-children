@@ -1,0 +1,4 @@
+services:
+  entity_children.menu_entity_searcher:
+    class: Drupal\entity_children\MenuEntitySearcher
+    arguments: ['@menu.link_tree', '@entity_type.manager']
